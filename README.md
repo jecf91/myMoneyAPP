@@ -1,7 +1,7 @@
 # myMoneyAPP 
 ## A finance app builted with React , Redux, NodeJS and MongoDB (MERN)
 
-Also used Webpack, Babel, Redux-Thunk, Redux-Promise and Bootstrap for stylling. The user login system uses JWT for validation and authorization
+Also used Webpack, Babel, Redux-Thunk, Redux-Promise and Bootstrap for stylling. The user login system uses JWT for validation and authorization. For handling error messages I choosed Redux-toastr
 
 Feel free to clone it and try it!
 
